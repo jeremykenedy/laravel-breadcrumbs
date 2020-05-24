@@ -1,4 +1,4 @@
-Thanks to *Dave* and the [contributors](https://github.com/davejamesmiller/laravel-breadcrumbs/graphs/contributors)!
+Thanks to [*Dave*](https://github.com/davejamesmiller) and the [contributors](https://github.com/davejamesmiller/laravel-breadcrumbs/graphs/contributors)!
 
 ---
 
